@@ -1,4 +1,9 @@
-data
+data/alex-lechner
+data/Bosch Small Traffic Lights Dataset
+data/vatal
+data/combined/images
+data/combined/combined_data.record
+
 models
 tensorflow-APIs
 test

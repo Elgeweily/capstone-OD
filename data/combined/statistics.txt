@@ -1,4 +1,0 @@
-red:     2596
-yellow:  2596
-green:   2596
-nolight: 7788
